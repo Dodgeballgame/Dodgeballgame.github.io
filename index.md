@@ -24,12 +24,12 @@
 <br><br>
 # [대표이미지 기반 작품묘사]
 > ### 대표이미지 기반 :
-!(./img/예시1.PNG)
-!(./img/예시2.PNG)
-!(./img/예시3.PNG)
-![그림](./img/예시4.PNG)
-![그림](./img/예시5.PNG)
-![그림](./img/예시6.PNG)
+<img src="./img/예시1.jpg">
+<img src="./img/예시2.jpg">
+<img src="./img/예시3.jpg">
+<img src="./img/예시4.jpg">
+<img src="./img/예시5.jpg">
+<img src="./img/예시6.jpg">
 
 
 <br><br>
