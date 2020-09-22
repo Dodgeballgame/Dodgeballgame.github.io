@@ -50,3 +50,6 @@
 1) 스킬을 자유롭게 찍어서 상황에 맞게 유리하게 이끌어갈 수 있습니다.<br>
 2) 적의 행동을 예측하고 행동하여 큰 이득을 취할 수 있습니다.<br>
 3) 확률적인 요소를 통해 예상치못한 상황으로 역전의 발판을 만들 수 있습니다.
+
+
+<iframe width="642" height="361" src="https://www.youtube.com/embed/CLDGn4GXO3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
