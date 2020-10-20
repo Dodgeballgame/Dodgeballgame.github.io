@@ -23,7 +23,7 @@
 <img src="./img/대표이미지.jpg">
 - 동영상 
 
-(https://youtu.be/ZDP8ZF-XmAU)
+[![동영상예시](./img/동영상예시.PNG)](https://youtu.be/ZDP8ZF-XmAU)
 
 
 <br><br>
