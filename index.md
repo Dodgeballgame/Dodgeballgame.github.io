@@ -208,7 +208,5 @@
 ![마우스 이벤트에 대한 흐름도](./img/마우스흐름도.png)
 
 # [개발작업 일정(6주)]
-![개발작업일정](./img/개발작업일정_수정.PNG)
-
-![gif](https://user-images.githubusercontent.com/70992387/98057670-27f8cd80-1e86-11eb-9a5b-532435d29fef.gif)
+![개발작업일정](./img/개발작업일정_수정.PNG)\
 
