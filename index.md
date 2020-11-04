@@ -209,5 +209,3 @@
 
 # [개발작업 일정(6주)]
 ![개발작업일정](./img/개발작업일정_수정.PNG)\
-
-![gif (1)](https://user-images.githubusercontent.com/70992387/98058215-78bcf600-1e87-11eb-998a-53d5614934b9.gif)
